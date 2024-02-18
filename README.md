@@ -94,7 +94,7 @@ Lambda deployment succeed
 
 ![image](https://github.com/felixdagnon/Creating-scheduled-lambda-using-SAM/assets/91665833/c21a9dee-efa3-446e-9d76-3e6ee4f5914d)
 
-Click on claoudwatch event
+Click on cloudwatch event
 
 ![image](https://github.com/felixdagnon/Creating-scheduled-lambda-using-SAM/assets/91665833/91c4db1d-779e-472f-959e-0078c5b5209d)
 
