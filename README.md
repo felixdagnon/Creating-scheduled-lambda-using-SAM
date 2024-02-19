@@ -8,7 +8,7 @@ Create scheduled lambda using SAM
 
 We add additional resources from event souce types (github page)
 
-In the template.yaml file, We are going to add additional resources from event souce types (github page) to obtain lambda-events-schedule.yml file
+In the template.yaml file, We are going to add additional resources from event souce types (github page) to obtain "lambda-events-schedule.yml" file
 
 Here template.yaml file
 
