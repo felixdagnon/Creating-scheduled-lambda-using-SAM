@@ -1,6 +1,4 @@
-# Creating-scheduled-lambda-using-SAM
-Creating scheduled lambda using SAM
-
+# Creating-scheduled-lambda-using-SAM, Cloud9, Cloudwatch
 
 We continuous with our last demo (Create-API-and-lambda-events-using-SAM)
 
