@@ -4,6 +4,8 @@ We continuous with our last demo (Create-API-and-lambda-events-using-SAM)
 
 Create scheduled lambda using SAM
 
+# 1-Modified existing template.yml
+
 We add additional resources from event souce types (github page)
 
 In the template.yaml file, We are going to add additional resources from event souce types (github page) to obtain "lambda-events-schedule.yml" file
@@ -51,7 +53,7 @@ Resources:
 
 
 
-# Create scheduled lambda template with SAM
+# 2-Create scheduled lambda template with SAM
 
 Let's run this package lambda-events-schedule.yml:
 
@@ -70,7 +72,7 @@ Let's check s3 bucket
 ![image](https://github.com/felixdagnon/Create-API-and-lambda-events-using-SAM/assets/91665833/6338f502-f995-48cb-8617-3e459dca00e4)
 
 
-# Deploying lambda package with SAM
+# 3-Deploying lambda package with SAM
 
 To deploy the package run the below command
 
